@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadQueueSample", "ThreadQueueSample.csproj", "{94DC5324-B28A-4175-BD95-55F87E065D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DC5324-B28A-4175-BD95-55F87E065D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DC5324-B28A-4175-BD95-55F87E065D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DC5324-B28A-4175-BD95-55F87E065D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DC5324-B28A-4175-BD95-55F87E065D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
